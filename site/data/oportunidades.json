@@ -1,0 +1,38 @@
+{
+ "_nota": "Conteúdo copiado do site antigo. Campos opcionais por oportunidade: area (energia | producao | sistemas | multidisciplinar), descricao, local, prazo (AAAA-MM-DD), url. O REI pode editar este ficheiro diretamente.",
+ "tipos": [
+  {"id": "emprego", "label": "Empregos"},
+  {"id": "estagio", "label": "Estágios"},
+  {"id": "tese", "label": "Teses"},
+  {"id": "embaixadores", "label": "Programa de Embaixadores"},
+  {"id": "bolsa", "label": "Bolsas"}
+ ],
+ "areas": [
+  {"id": "energia", "label": "Energia"},
+  {"id": "producao", "label": "Produção"},
+  {"id": "sistemas", "label": "Sistemas"},
+  {"id": "multidisciplinar", "label": "Multidisciplinar"}
+ ],
+ "oportunidades": [
+  {"empresa": "GYPFOR", "tipo": "emprego", "logo": "cafc0e_974ea5bdd48f410a90d874f4b26a16a0~mv2.png"},
+  {"empresa": "ZAGOPE", "tipo": "emprego", "logo": "cafc0e_ed5de37d857842c1bc93ddb726447d67~mv2.jpg"},
+  {"empresa": "ERISING", "tipo": "emprego", "logo": "cafc0e_c50aed890c5540f0bb7eac06d599501a~mv2.png"},
+  {"empresa": "FRAVIZEL", "tipo": "emprego", "logo": "cafc0e_96d283738c1a41fb8efa52935a98139f~mv2.jpg"},
+  {"empresa": "G3 GO GREEN GAS", "tipo": "emprego", "logo": "cafc0e_1e75c64f0efa40e7874a501b42aee81f~mv2.jpg"},
+  {"empresa": "ENDIPREV", "tipo": "emprego", "logo": "cafc0e_fa7305969550417891d27dc1f1314baa~mv2.png"},
+  {"empresa": "TALENT PORTUGAL", "tipo": "emprego", "logo": "cafc0e_f2a0a4c2b2d3408b88bdaf2c10b03a08~mv2.png"},
+  {"empresa": "KPMG", "tipo": "emprego", "logo": "cafc0e_f18c275bfd8b4ae8b4cc68cd0f275a3f~mv2.png"},
+  {"empresa": "MOV.AI", "tipo": "estagio", "logo": "cafc0e_38ce83fc77ab41a7be00840c28e36c82~mv2.png"},
+  {"empresa": "FABER", "tipo": "estagio", "logo": "cafc0e_38b3eadbdf1245a99cf8045d6eaf0905~mv2.png"},
+  {"empresa": "VISTEON", "tipo": "estagio", "logo": "cafc0e_10b21ac0d71f411283e18296b961b0ff~mv2.png"},
+  {"empresa": "AstraZeneca", "tipo": "estagio", "logo": "cafc0e_009bc990cf204d168296e52c268d792c~mv2.jpg"},
+  {"empresa": "TALENT PORTUGAL", "tipo": "estagio", "logo": "cafc0e_f2a0a4c2b2d3408b88bdaf2c10b03a08~mv2.png"},
+  {"empresa": "CIMPOR", "tipo": "estagio", "logo": "cafc0e_7d9c326d08c54680a1e55f3b818ae0f2~mv2.png"},
+  {"empresa": "GRUPO BRISA", "tipo": "estagio", "logo": "cafc0e_d4abd7b63a8c4f03a62cf0891d38a4c4~mv2.png"},
+  {"empresa": "GRUPO ETE", "tipo": "estagio", "logo": "cafc0e_c26f1ce0dfcb4eda938702c62cb2b2ec~mv2.png"},
+  {"empresa": "PUREVER", "tipo": "estagio", "logo": "cafc0e_a980a028c5b548a1b7a0e09169a23b5c~mv2.png"},
+  {"empresa": "MAGMA", "tipo": "embaixadores", "logo": "cafc0e_43a5b80ea15740c2aabb81c323975bb7~mv2.png"},
+  {"empresa": "NTT DATA", "tipo": "embaixadores", "logo": "cafc0e_a445e7a3bf1444dc96f72d9f57e497d7~mv2.png"},
+  {"empresa": "Bolsas de Estudo", "tipo": "bolsa", "logo": "cafc0e_d4fb7191ede047bd8466f149107fae93~mv2.png", "descricao": "Informação do Núcleo de Desenvolvimento Académico do Técnico sobre bolsas de estudo.", "url": "https://nda.tecnico.ulisboa.pt/estudantes/bolsas-de-estudo/"}
+ ]
+}

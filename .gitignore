@@ -1,0 +1,11 @@
+# cópias e ficheiros gerados localmente
+*.zip
+__pycache__/
+node_modules/
+.netlify/
+
+# definições locais do editor / do Claude
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db

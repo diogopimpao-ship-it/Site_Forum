@@ -1,0 +1,40 @@
+{
+ "edicao": "MecanIST XV",
+ "datas": "18–20 Fevereiro",
+ "local": "Pavilhão Central · IST",
+ "ano": "2026",
+ "lema": ["LOOKING UP", "FOR THE FUTURE"],
+ "fundo": "cafc0e_5644e7f82c3d415987b1e410671786dc~mv2.jpg",
+ "programa": [
+  {"dia": "18 Fevereiro", "sessoes": [
+   {"hora": "10:00", "titulo": "Início", "detalhe": "Abertura do dia."},
+   {"hora": "10:30", "titulo": "Palestra — Gonçalo Rodrigues", "detalhe": "Nestlé", "sala": "Salão Nobre"},
+   {"hora": "12:00", "titulo": "Workshop", "detalhe": "MCG", "sala": "Salão Nobre"},
+   {"hora": "14:00", "titulo": "Palestra — Alex Burg", "detalhe": "Red Bull Racing", "sala": "Salão Nobre"},
+   {"hora": "15:30", "titulo": "Roundtable", "detalhe": "Conversa aberta com convidados."}
+  ]},
+  {"dia": "19 Fevereiro", "sessoes": [
+   {"hora": "10:00", "titulo": "Início", "detalhe": "Abertura do dia."},
+   {"hora": "10:30", "titulo": "Palestra — António Maximiano", "detalhe": "blueOASIS", "sala": "Salão Nobre"},
+   {"hora": "12:00", "titulo": "Debate", "detalhe": "Técnico Debate Club", "sala": "Salão Nobre"},
+   {"hora": "14:00", "titulo": "Palestra — Jony Duarte", "detalhe": "Toyota Racing", "sala": "Salão Nobre"},
+   {"hora": "15:30", "titulo": "Roundtable", "detalhe": "Conversa aberta com convidados."}
+  ]},
+  {"dia": "20 Fevereiro", "sessoes": [
+   {"hora": "10:00", "titulo": "Início", "detalhe": "Abertura do dia."},
+   {"hora": "10:30", "titulo": "Palestra — Pedro Barreiros", "detalhe": "Google", "sala": "Salão Nobre"},
+   {"hora": "12:00", "titulo": "Workshop", "detalhe": "BCG", "sala": "Salão Nobre"},
+   {"hora": "14:00", "titulo": "Palestra — Mário Rodrigues", "detalhe": "AutoEuropa", "sala": "Salão Nobre"},
+   {"hora": "15:30", "titulo": "Roundtable", "detalhe": "Conversa aberta com convidados."},
+   {"hora": "18:00", "titulo": "MecaNight", "detalhe": ""}
+  ]}
+ ],
+ "oradores": [
+  {"nome": "Alex Burg", "empresa": "Red Bull Racing", "foto": "cafc0e_168ee23aae4d471fbe6388ac782ffd60~mv2.png"},
+  {"nome": "António Maximiano", "empresa": "blueOASIS", "foto": "cafc0e_27a9b5be77f7460cb0d3d4b26ceabcb9~mv2.jpg"},
+  {"nome": "Mário Rodrigues", "empresa": "AutoEuropa", "foto": "cafc0e_f6b688e7f3cd450a8bf237f7239039a5~mv2.jpg"},
+  {"nome": "Jony Duarte", "empresa": "Toyota Racing", "foto": "cafc0e_c42ebba0d70e4de7a4d5fc00f79565e0~mv2.jpeg"},
+  {"nome": "Gonçalo Rodrigues", "empresa": "Nestlé", "foto": "cafc0e_ba093de5c304459497bb35e1eb86548d~mv2.jpg"},
+  {"nome": "Pedro Barreiros", "empresa": "Google", "foto": "cafc0e_310cca1a919541a3969537a9c27a0897~mv2.jpg"}
+ ]
+}

@@ -1,0 +1,9 @@
+# Netlify — site estático, sem build. A pasta publicada é "site".
+# Redirects e cabeçalhos estão em site/_redirects e site/_headers.
+# A função do Instagram (netlify/functions) só é publicada com deploy pelo GitHub ou pela CLI do Netlify;
+# arrastando só a pasta "site", o site funciona na mesma e mostra as publicações de data/noticias.json.
+[build]
+  publish = "site"
+
+[functions]
+  directory = "netlify/functions"

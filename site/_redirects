@@ -1,0 +1,6 @@
+# URLs antigas -> páginas novas. O Netlify lê este ficheiro na raiz da pasta publicada.
+/team                      /equipa         301
+/mecanist-xv               /mecanist       301
+/empregos                  /oportunidades  301
+/c%C3%B3pia-not%C3%ADcias  /               301
+/noticias                  /               301

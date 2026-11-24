@@ -1,0 +1,250 @@
+{
+ "empresas": [
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/media/cafc0e_4b1485fd321742469eca859037d0b4ce~mv2.png"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_6577270e97f646eeb09b9ad32fdf904d.svg"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_f82ccd2654744f0a8c6eeea0e7ddf61d.svg"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_cbd63944c51e425a8c0b577730f8b41b.svg"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_59d1652adc8749248ec3ac275f0e05e7.svg"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_122876d62d34455785e2eba08bf1e42b.svg"
+  },
+  {
+   "cat": "energias",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_0b7a318125c049a9820001992be836b9.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/media/cafc0e_40d57d6ae2ae4b71be2fb577a7afe5b5~mv2.png"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_5ff9a6bc32d24d03b21611797237babf.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_598958c90510456fb851340ccace79db.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_6613d6779b3a4c62a49ed46a50ed1ab7.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_2117f01d54544f6389f46345edfc4297.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_37270f78b0ca4b3f84da21160c9ab241.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_b4e42779cca44860ba16ed47d122435a.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_a9a5e743f4994a61be8453c2bb57176e.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_ecd4e89b94b849c7b4760eddcc65ead4.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_7edb94f16fcf43eeaee8584aa5e95717.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_13dfb2b35eba4208a9c921d61fb9faa8.svg"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/media/cafc0e_fb56299309bc47d8a752615f85652def~mv2.png"
+  },
+  {
+   "cat": "producao",
+   "logo": "https://static.wixstatic.com/media/cafc0e_e8dcdb57392046e3aafef3d5836a2ffa~mv2.png"
+  },
+  {
+   "cat": "sistemas",
+   "logo": "https://static.wixstatic.com/media/cafc0e_e2a0c7e01696400ca9635c966b94087c~mv2.png"
+  },
+  {
+   "cat": "sistemas",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_6094ff8f157c475288db976bc342a0a0.svg"
+  },
+  {
+   "cat": "sistemas",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_9eb27d29b7cb4ac8a5e39cae2351d216.svg"
+  },
+  {
+   "cat": "sistemas",
+   "logo": "https://static.wixstatic.com/media/cafc0e_b7c4579673354a158a27d8f51cc18035~mv2.png"
+  },
+  {
+   "cat": "sistemas",
+   "logo": "https://static.wixstatic.com/media/cafc0e_bd8230acc56642aba5a981c69bca4fb2~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_d2f439d8ea7346efbb10c4bfcd9f2928~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_04835006087e4cfc95e4ea46e967e4e3~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_26a301e03f0741beaec45a210612db68~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_977fd8f4c105487db9661f98df22d1d5~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_282a564e71c4491c946dc1c7460bb29f~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_3e8e958404cb4ab38f6f09196ee10b6a.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/media/cafc0e_8e75392ce9f54884bacfd7a534257b23~mv2.png"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_83757f9cdfce45b4b87e9f3cbb267add.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_cf869191b26e4754b8302a418ce8b08e.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_e4b1913260e945279c3151c024aee683.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_6486b9f409134d7aa46de8ba25818e9a.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_abbcc84b1d07412bb48e1286b925a8a1.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_5cf0368c571349c2ad65f582e3c2a45d.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_b803548ccc25493aabd35d1c0e269f54.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_8bb88121de2c4bfab6b682a29356a407.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_f8d2d049dd5246cf8a5d076f8e2d9875.svg"
+  },
+  {
+   "cat": "multidisciplinar",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_19c73fd85c5a45de9f7a95e4aa6c8a0b.svg"
+  }
+ ],
+ "patrocinadores": [
+  {
+   "cls": "is-featured",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_9be36a72477b41d0bf2e659e5d934982.svg"
+  },
+  {
+   "cls": "is-featured",
+   "logo": "https://static.wixstatic.com/media/cafc0e_34a3a9ec520144ccadde44367aa9c5a2~mv2.png"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_e30fb41798c140bc9dc10292d93e2529.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_daac10c99b7a4d319ba6847619afa6d5.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_93693ff036524386a2a567b438d14e3d.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_c405f297a79e42f49e2d950538d5b4f5.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_04ddbf84a4794bf2b4451fceb77e426a.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_55cebb4dc39e4b3682329d44d9bc6800.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/media/cafc0e_99fa5db941004b3d8a78bd34c0cebbe2~mv2.png"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_122876d62d34455785e2eba08bf1e42b.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_7daa0d2d7dbc4bbdb3149fc4c06bc4a0.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_906f1f4dca2d4ed2ae17e28de10c49f0.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_ede747c1ff3e4f41a7b7ec0c4b755ac5.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_6c1378b79e884e2ba9101fdcc0d79951.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_0ea890651cfc45e0bf0ac0bebf254386.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_9eb8c25b057a484390827bf3e3535705.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_c2770c897a43493b96c58dcf55511ff0.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_c0388b2b9a514e3490d5a147af4752f3.svg"
+  },
+  {
+   "cls": "",
+   "logo": "https://static.wixstatic.com/shapes/cafc0e_b1d30447d51b4882bcd6a806b9af4111.svg"
+  }
+ ]
+}

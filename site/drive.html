@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Drive de Mecânica | Fórum Mecânica</title>
+<meta name="description" content="Materiais de estudo organizados por ano, semestre e cadeira, com leitor de documentos integrado.">
+<meta name="theme-color" content="#05153a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script>(function(d){if(!matchMedia('(prefers-reduced-motion: reduce)').matches){d.classList.add('anim');setTimeout(function(){if(!window.gsap)d.classList.remove('anim')},2500)}})(document.documentElement)</script>
+</head>
+<body data-page="drive">
+<header id="site-header"></header>
+<main id="main">
+  <section class="page-hero dark gridbg"><div class="shell">
+    <nav data-hero class="crumbs" aria-label="Localização"><a href="index.html">Início</a><span>/</span><span>Drive</span></nav>
+    <p class="eyebrow" data-hero>Fórum Mecânica · Drive</p>
+    <h1 data-split>Drive de Mecânica</h1>
+    <p class="lead" data-hero>Testes, exames, fichas e apontamentos organizados por ano, semestre e cadeira. Abre os documentos aqui mesmo, sem sair do site.</p>
+    <label class="hero-search" data-hero><span class="sr-only">Procurar na Drive</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" id="driveSearch" placeholder="Procurar cadeira ou ficheiro, por exemplo: exame termodinâmica" autocomplete="off"></label>
+  </div></section>
+  <section class="section tight"><div class="shell">
+    <div class="toolbar"><div class="chips" id="dxTabs" role="group" aria-label="Ano ou ramo"></div></div>
+    <div class="card dx" id="dx">
+      <div class="dx-bar"><div class="dx-crumbs" id="dxCrumbs" aria-label="Caminho"></div><span class="dx-count" id="dxCount"></span></div>
+      <div class="dx-body" id="dxView" aria-live="polite"><p class="empty">A carregar a Drive…</p></div>
+      <div class="dx-foot" id="dxFoot"></div>
+    </div>
+    <div class="cta dark gridbg">
+      <div><h2>Tens materiais para partilhar?</h2><p>Testes, resoluções e apontamentos ajudam quem vem a seguir. Envia-nos e acrescentamos à Drive do curso.</p></div>
+      <a class="btn" href="mailto:geral@fmec.tecnico.ulisboa.pt?subject=Contribui%C3%A7%C3%A3o%20para%20a%20Drive%20do%20Curso%20de%20Mec%C3%A2nica">Contribuir para a Drive <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div></section>
+
+  <div class="reader" id="reader" role="dialog" aria-modal="true" aria-labelledby="rdName" hidden>
+    <div class="reader-win">
+      <div class="reader-bar">
+        <span class="ftype" id="rdType"></span>
+        <div class="reader-title"><b id="rdName"></b><small id="rdPath"></small></div>
+        <span class="reader-pos" id="rdPos"></span>
+        <button class="ibtn" type="button" id="rdPrev" aria-label="Ficheiro anterior" title="Ficheiro anterior"></button>
+        <button class="ibtn" type="button" id="rdNext" aria-label="Ficheiro seguinte" title="Ficheiro seguinte"></button>
+        <span class="reader-sep"></span>
+        <a class="ibtn" id="rdDown" target="_blank" rel="noopener" aria-label="Transferir ficheiro" title="Transferir ficheiro"></a>
+        <button class="ibtn" type="button" id="rdClose" aria-label="Fechar leitor" title="Fechar (Esc)"></button>
+      </div>
+      <div class="reader-stage" id="rdStage"><div class="reader-loading" id="rdLoading">A abrir documento…</div></div>
+    </div>
+  </div>
+</main>
+<footer id="site-footer"></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/site.js"></script>
+<script src="js/pages.js"></script>
+</body>
+</html>

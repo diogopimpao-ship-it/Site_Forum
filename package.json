@@ -1,0 +1,9 @@
+{
+  "name": "forum-mecanica-site",
+  "private": true,
+  "type": "module",
+  "description": "Site do Fórum Mecânica (NEMIST). Site estático em site/; a única dependência é da função do Instagram.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
